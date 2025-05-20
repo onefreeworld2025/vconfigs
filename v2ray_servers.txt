@@ -1,5 +1,5 @@
 vless://Parsashonam-239@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@Parsashonam
-vless://5a76615b-10e1-46f7-d521-17662f3c7287@37.27.191.28:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.networkpro.net#@meli_proxyy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=%2F%3Fed%3D2560fp%3Dchrome&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
-vless://37b6dd9d-fe73-4083-a5be-ad3d11c484c5@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel@JOKERRVPN&type=grpc#@meli_proxyy
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=QiSbUiWg0.ZuMiNhO.InFo&type=ws&sni=QiSbUiWg0.ZuMiNhO.InFo#@meli_proxyy
+vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=uk.gamingbazirani.ir&type=httpupgrade#@meli_proxyy
+vless://1799b29e-d587-4ad7-b58e-5ef51c158173@79.110.51.52:55555?security=reality&encryption=none&pbk=1zxVP27bDf_TlHFEbBne26fdhCFPftpB9zt7-nCd8HQ&headerType=&fp=chrome&type=tcp&sni=stackoverflow.com&sid=867599a1433d8a1e#v2raynplus
+vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&security=none&encryption=none&type=grpc#v2raynplus
