@@ -1,5 +1,5 @@
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.17:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#@meli_proxyy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?path=%2FTelegram-V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?security=&encryption=none&type=grpc&sni=pqh27v5.nature27.shop#@meli_proxyy
+vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@104.21.93.108:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#@meli_proxyy
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.pronetwork.com#@meli_proxyy
 vless://Parsashonam-245@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@Parsashonam
 vless://ms5fu66ofs@npmjs.com:2053?encryption=none&security=tls&sni=ms5fu66ofs-4515017477.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=ms5fu66ofs-4515017477.mashallahbet.com&path=%2Fnasnet%2Fcdn#NASNET%20%7C%205%20%7C%20%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%DB%8C%D9%86%DA%A9%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.193.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2057%20%28%40proxy_kafee%29
