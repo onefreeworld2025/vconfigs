@@ -1,5 +1,5 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.7.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2061%20%28%40proxy_kafee%29
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.193.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2057%20%28%40proxy_kafee%29
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?security=&encryption=none&type=grpc&sni=pqh27v5.nature27.shop#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.6:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#@meli_proxyy
-vless://telegram-id-ArV2ray9@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#WS-All+%7C+%40ArV2ray
+vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@104.21.93.108:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#@meli_proxyy
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir#@meli_proxyy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880?mode=gun&security=none&encryption=none&authority=/--V2RAYNPLUS--V2RAYNPLUS--V2RAYNPLUS&type=grpc#@meli_proxyy
