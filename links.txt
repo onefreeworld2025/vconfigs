@@ -7,4 +7,3 @@ https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config3
 https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config8.txt
 https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config6.txt
 https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config2.txt
-https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config10.txt
