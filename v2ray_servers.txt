@@ -1,5 +1,5 @@
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@meli_proxyy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@meli_proxyy
+vless://ba416ad0-96ec-4f10-8a24-a4278ae5c5b6@49.13.58.6:59286?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@meli_proxyy
-vless://fac834ec-7ad6-48cb-9a52-0dbb9ab7498e@157.180.126.72:5969?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@meli_proxyy
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#@meli_proxyy
+vless://3e53f3cb-bb35-c6be-d955-c53f5bd7c709@178.239.144.99:13000?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.8.211.167:80?path=Telegram%40Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@meli_proxyy
