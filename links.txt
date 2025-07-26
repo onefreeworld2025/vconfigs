@@ -1,4 +1,6 @@
+https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config5.txt
 https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config2.txt
 https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config4.txt
 https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config3.txt
+https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config6.txt
 https://raw.githubusercontent.com/onefreeworld2025/vconfigs/main/configs/config1.txt
