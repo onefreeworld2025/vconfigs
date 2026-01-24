@@ -1,8 +1,8 @@
-vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40FREEV2RNG&type=ws
-vless://a4dab647-8eee-469a-ba12-549e8d849d86@iranlease.com:443?security=reality&encryption=none&pbk=EHPE-NLTbXeFyR9lQuwraAwA3PRUmTVTesxweUyw4k4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=adobe.com&sid=caf5
 vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=siria2.mrpixanos.ir
-vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp
-vless://887c4487-5a14-426c-9c1b-f0b857d6ae06@ro.marzxo.biz:8081?security=reality&encryption=none&pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&headerType=none&fp=firefox&type=tcp&sni=store.steampowered.com&sid=e8ef8df79e4a6343
 vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com
-vless://e641284d-2e22-4278-81ba-d8b3d5ae42e7@62.60.251.110:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=test.steampowered.com
+vless://887c4487-5a14-426c-9c1b-f0b857d6ae06@ro.marzxo.biz:8081?security=reality&encryption=none&pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&headerType=none&fp=firefox&type=tcp&sni=store.steampowered.com&sid=e8ef8df79e4a6343
+vless://a4dab647-8eee-469a-ba12-549e8d849d86@iranlease.com:443?security=reality&encryption=none&pbk=EHPE-NLTbXeFyR9lQuwraAwA3PRUmTVTesxweUyw4k4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=adobe.com&sid=caf5
 vless://725663f6-3871-4799-b9eb-be57fbbd5109@Vim1.svhamrah.shop:4471?security=none&encryption=none&host=Excoino.com&headerType=http&type=tcp
+vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp
+vless://e641284d-2e22-4278-81ba-d8b3d5ae42e7@62.60.251.110:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=test.steampowered.com
+vless://307a283d-8f3c-4ef6-ab6a-6a57f064e7ba@s31629.asancall.cloud:8443?path=%2Fws%2Fapps%2Fsoftgozar&security=none&encryption=none&type=ws
