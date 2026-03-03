@@ -1,2 +1,1 @@
-vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp
 vless://5703f5b9-d708-4443-b661-aae0c338e32c@62.60.212.216:443?security=reality&encryption=none&pbk=HiEn07HkK8FRuKgmNDATj9TsEh6z6QwozRADLvV8SEE&headerType=none&fp=random&type=tcp&sni=www.figma.com&sid=a4efab6a73
