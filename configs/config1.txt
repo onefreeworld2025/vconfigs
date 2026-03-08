@@ -1,2 +1,2 @@
-vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@chatgpt.com:2086?path=%2F%3Fed%3D2056&security=none&encryption=none&host=copolo.nine.dl101movis.ir&type=httpupgrade
 vless://4dc44daf-52e7-4c47-b87f-cbe86c04c74c@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com
+vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@chatgpt.com:2086?path=%2F%3Fed%3D2056&security=none&encryption=none&host=copolo.nine.dl101movis.ir&type=httpupgrade
