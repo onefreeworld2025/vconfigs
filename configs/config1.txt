@@ -1,4 +1,4 @@
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.103:5443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=c39cc7310a
-vless://be2557f7-a0df-4393-b71b-28013847059f@fastly3.hamrahflow.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=Valsiin.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net
-vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Ws2.beepn.info&fp=chrome&type=ws&allowInsecure=0&sni=Ws2.beepn.info
 vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn%2F%3FI&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp
+vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62
+vless://be2557f7-a0df-4393-b71b-28013847059f@fastly3.hamrahflow.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=Valsiin.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net
