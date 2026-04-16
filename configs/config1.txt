@@ -1,5 +1,7 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@clud.soonteam.top:2053?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws
+vless://c0cac14f-9702-46c2-985f-f5d3b24b456d@s2.xbat.ir:80?path=%2F&security=none&encryption=none&type=ws
 vless://Telegram-Parsashonam@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir
+vless://3e49bc02-675b-4dcd-b9fe-61dd56e6b907@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=enzo.amirenzohost.ir&type=ws
 vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@clud.soonteam.top:2053?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in
