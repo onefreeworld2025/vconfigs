@@ -1,5 +1,4 @@
-vless://68de97d5-db78-4d9d-a90a-01a5ee3c1b0d@n1.linkinfo.cloud:8080?path=%2F&security=none&encryption=none&type=ws
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in
+vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws
 vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=1&host=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&type=ws&allowInsecure=1&sni=alef.ir.oadeflantrogm.realirshop.com
 vless://d444ab06-7a7f-4f80-b1eb-39308da10180@185.143.235.200:80?path=%2Farvancloud.ir&security=none&encryption=none&host=shophajabol10.pointspeed.ir&type=ws
-vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in
