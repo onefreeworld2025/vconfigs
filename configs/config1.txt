@@ -1,8 +1,6 @@
+vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=1&host=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&type=ws&allowInsecure=1&sni=alef.ir.oadeflantrogm.realirshop.com
 vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in
-vless://a16e9398-733a-450e-9a7f-7711ef24e2bf@tamin.ir:2052?path=%2F&security=none&encryption=none&host=tt.sedighi0915.ir&type=ws
-vless://432cb991-1a24-41ca-b01f-f15449c8c75e@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com
+vless://a2aa9012-57c4-4e7f-9a1d-018ed0292f2b@snapp.ir:80?path=%2F&security=none&encryption=none&host=trx.noventa.ir&type=ws
 vless://d444ab06-7a7f-4f80-b1eb-39308da10180@185.143.235.200:80?path=%2Farvancloud.ir&security=none&encryption=none&host=shophajabol10.pointspeed.ir&type=ws
-vless://d83ab7c4-95f8-4812-8b68-6172a8f747a0@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=dom.amirenzohost.ir&type=ws
-vless://7846712c-c929-3c2b-36d8-a930cf1b62c9@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205
-vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=1&host=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&type=ws&allowInsecure=1&sni=alef.ir.oadeflantrogm.realirshop.com
+vless://432cb991-1a24-41ca-b01f-f15449c8c75e@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com
