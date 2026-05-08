@@ -1,8 +1,8 @@
-vless://bdffa6a0-8da1-4f6a-aede-bcda4daa6c1f@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws
-vless://687fd1d5-2290-4fa7-b94c-6eef1cee75f1@negin.nahidapp.com:443?path=%2Fnegin%2F&security=tls&encryption=none&insecure=1&host=negin.nahidapp.com&type=ws&allowInsecure=1&sni=negin.nahidapp.com
-vless://d3db44da-fbd2-4592-bc01-fa7995ee0434@snapp.ir:80?path=%2F&security=none&encryption=none&host=bl.varyonet.ir&type=ws
-vless://0311dcca-b4a4-42d8-a084-eda5629e3ecb@snapp.ir:80?path=%2F&security=none&encryption=none&host=pan42E.nexoratechcenter.ir&type=ws
+vless://1e03ea78-9599-4578-8469-7ad0f7ba3c3e@snapp.ir:8880?mode=auto&path=%2Fwskachal.babaii.ir&security=none&encryption=none&host=wskachal.babaii.ir&type=xhttp
 vless://621c3631-ed9b-453a-b486-4068212bf483@185.143.233.233:2082?path=%2F&security=none&encryption=none&host=meli.hoorakan-cloud.ir&type=ws
 vless://2213bb30-86a0-468f-b211-1c3560cbb97b@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws
-vless://64569c45-7ce4-4336-bae6-fa3e59c9498a@snapp.ir:2052?path=%2F&security=none&encryption=none&host=M3.snllshop.ir&type=ws
 vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws
+vless://472cc766-8cf8-45db-93f1-01d08259aa01@snapp.ir:8080?path=%2F&security=none&encryption=none&host=code.maktabmotahari.ir&type=ws
+vless://d3db44da-fbd2-4592-bc01-fa7995ee0434@snapp.ir:80?path=%2F&security=none&encryption=none&host=bl.varyonet.ir&type=ws
+vless://64569c45-7ce4-4336-bae6-fa3e59c9498a@snapp.ir:2052?path=%2F&security=none&encryption=none&host=M3.snllshop.ir&type=ws
