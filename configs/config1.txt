@@ -1,4 +1,4 @@
 vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev
-vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto&path=%2Fzyphervpnsalle&security=tls&encryption=none&insecure=0&host=vercel-xhttp-beta-flame.vercel.app&type=xhttp&allowInsecure=0&sni=nextjs.org
 vless://64569c45-7ce4-4336-bae6-fa3e59c9498a@snapp.ir:2052?path=%2F&security=none&encryption=none&host=M3.snllshop.ir&type=ws
+vless://621c3631-ed9b-453a-b486-4068212bf483@185.143.233.233:2082?path=%2F&security=none&encryption=none&host=meli.hoorakan-cloud.ir&type=ws
 vless://2213bb30-86a0-468f-b211-1c3560cbb97b@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws
