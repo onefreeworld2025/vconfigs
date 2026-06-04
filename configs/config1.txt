@@ -1,7 +1,10 @@
-vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&host=uiz2001.bingnet.online&fp=chrome&type=ws&sni=uiz2001.bingnet.online
-vless://18d0c6fa-8715-47c6-a4ab-3ea5a7e10363@104.18.32.47:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mizanonline.com.ilna.news.sharghdaily.com.sharghdaily.com.farsnews.ir.rajanews.com.presstv.ir&allowInsecure=0&sni=compasSIonAtE-drEam2FqZUJ02O9.SAmSuNGOvEns.Ir
 vless://39180103-e1e5-42a7-8180-6b928e74122a@sdafa.shompolexy.shop:80?path=%2FShompolexy&security=none&encryption=none&host=play.google.com&type=ws
+vless://18d0c6fa-8715-47c6-a4ab-3ea5a7e10363@104.18.32.47:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mizanonline.com.ilna.news.sharghdaily.com.sharghdaily.com.farsnews.ir.rajanews.com.presstv.ir&allowInsecure=0&sni=compasSIonAtE-drEam2FqZUJ02O9.SAmSuNGOvEns.Ir
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&host=uiz2001.bingnet.online&fp=chrome&type=ws&sni=uiz2001.bingnet.online
+vless://23e35579-baad-487c-80de-aca4475d50b2@167.82.2.79:443?mode=auto&path=%2Fassets&security=tls&encryption=none&insecure=1&host=oppressed-distract-uncurled-grooving-bonding-renewal.global.ssl.fastly.net&type=xhttp&allowInsecure=1&sni=speedtest.net
 vless://ae5a910d-b6d0-43aa-80fb-1a70f0078ce8@151.101.110.219:443?path=%2F&security=tls&encryption=none&host=nleiyajji.global.ssl.fastly.neT.&type=ws&sni=speedtest.net
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&host=support.zoom.us.cyylr.eu.cc&type=ws&sni=support.zoom.us.cyylr.eu.cc
 vless://InternetAzadRobot-AliKiller@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp
-vless://1cb6f6ef-c398-4193-9f66-8de17f9bd004@185.189.58.195:22096?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=185.189.58.195&fp=chrome&type=ws&sni=185.189.58.195
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc
+vless://bf5d8d52-7998-4a47-8fca-f4a57d193625@5.175.141.113:80?path=%2FV2RayyNGvpn&security=none&encryption=none&host=MeTa.GaMEreDzOnE.tOP&type=httpupgrade
+vless://b95e6017-d54e-4016-b651-91c86aeaa463@nld02.helpbot.click:443?security=reality&encryption=none&pbk=M1a5zeQ6Ckoo1UybbRYD8696xaWb-fRcCY-7iaQ4wCA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nld02.helpbot.click&sid=fd3f0f2bce8083fe
